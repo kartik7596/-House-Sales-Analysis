@@ -14,24 +14,39 @@ In this project, I applied data analysis and machine learning techniques to pred
 The project covered the following steps and topics:
 
 Collecting and Importing Data: I started by importing the dataset into Python from various sources, ensuring the data was ready for analysis.
+
 Cleaning, Preparing, and Formatting Data: I handled missing values, detected outliers, and transformed categorical variables into numerical formats. This was necessary for preparing the data for machine learning models.
+
 Data Frame Manipulation: Using Pandas, I efficiently filtered, grouped, and aggregated the data to derive useful insights and feature variables.
+
 Exploratory Data Analysis (EDA): I visualized and summarized the dataset to identify key trends, correlations, and patterns between various features and house prices.
+
 Building Machine Learning Regression Models: I developed multiple regression models, including linear, multiple, and polynomial regression, to predict house prices.
+
 Model Refinement: I fine-tuned the models by adjusting hyperparameters and performing feature selection to improve accuracy. I evaluated the models using metrics like R² and RMSE.
+
 Creating Data Pipelines: Using scikit-learn, I streamlined the workflow by creating automated data pipelines to handle repetitive tasks such as data preprocessing and model training.
+
 By the end of the project, I built a model that predicted house prices based on property features. The final model was chosen based on performance metrics, and it was used to make predictions for house sales in King County, USA.
 
 You can find the dataset for this project in the data/ folder.
 
 # Technologies Used
+
 Python: 3.x
+
 Libraries:
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 SciPy
 
 

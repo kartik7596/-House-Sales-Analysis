@@ -35,19 +35,7 @@ You can find the dataset for this project in the data/ folder.
 
 Python: 3.x
 
-Libraries:
-
-Pandas
-
-Numpy
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-SciPy
+Libraries: Pandas,Numpy,Matplotlib,Seaborn,Scikit-learn,SciPy
 
 
 
